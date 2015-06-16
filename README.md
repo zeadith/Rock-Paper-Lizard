@@ -8,7 +8,7 @@ Expanded Codecademy game of Rock Paper Scissors to include Lizard and Spock, as 
 - [x] Result displayed in a console.log.
 
 ###### To do:
-- [] Get rid of alerts and console.logs.
-- [] Rules displayed on main page.
-- [] User enters choice in form.
-- [] Result displayed on main page.
+- [ ] Get rid of alerts and console.logs.
+- [ ] Rules displayed on main page.
+- [ ] User enters choice in form.
+- [ ] Result displayed on main page.
